@@ -24,6 +24,9 @@
     <ClCompile Include="texture_image.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="noiseutils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="texture_image.frag">

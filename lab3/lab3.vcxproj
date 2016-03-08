@@ -80,6 +80,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="noiseutils.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="texture_image.cpp" />
     <ClCompile Include="wrapper_glfw.cpp" />
